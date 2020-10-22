@@ -1,0 +1,12 @@
+ <span style="font-size: 48px; color: Dodgerblue;">
+        <i class="fab fa-facebook-f"></i>
+      </span>
+
+      <span style="font-size: 48px; color: Dodgerblue;">
+        <i class="fab fa-instagram"></i>
+      </span>
+      
+      <span style="font-size: 48px; color: Dodgerblue;">
+        <i class="fab fa-twitter"></i>
+      </span>
+    </div>
